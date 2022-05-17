@@ -6,7 +6,7 @@ Once the Gitpod workspace has successfully loaded, it will install the most comm
 
 ## How to use
 
-- Add your notebooks in the `./notebbooks` folder.
+- Add your notebooks in the `./notebbook` folder.
 - Open the notebooks and run the python code.
 
 ## Default dependencies
